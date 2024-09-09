@@ -6,4 +6,4 @@ export const createIssueSchema = z.object({
   });
 
 
- 
+ export default createIssueSchema;
